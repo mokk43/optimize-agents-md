@@ -6,7 +6,6 @@ ones as needed. Target: under 200 lines total.
 
 ---
 
-```markdown
 # [Project Name]
 
 ## Overview
@@ -126,7 +125,6 @@ Deeper context lives closer to the code it describes:
 - `src/routes/AGENTS.md` -- API design rules and middleware patterns
 - `docs/architecture.md` -- System design decisions and ADRs
 - `docs/specs/` -- Implementation specs written by planner agents
-```
 
 ---
 
