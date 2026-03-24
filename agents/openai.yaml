@@ -1,0 +1,7 @@
+interface:
+  display_name: "Optimise AGENTS.md"
+  short_description: "Optimise or migrate AI instruction files"
+  default_prompt: "Use $optimize-agents-md to optimize or optimise this project's AGENTS.md, CLAUDE.md, .cursorrules, or related AI instruction files. Read the existing files first, classify the content, propose an optimized structure, and ask before writing any files."
+
+policy:
+  allow_implicit_invocation: true
